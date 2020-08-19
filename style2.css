@@ -10,6 +10,10 @@ body, html{
 h1{
     font-size: 50px;
     text-transform: uppercase;
+    color: hsl(323, 3%, 41%);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px white;
 }
 .banner-img{
     background-image: url("/img/bg.jpg");
@@ -27,6 +31,8 @@ h1{
     width: 45%;
     padding: 40px 0;
     text-align: center;
+    color: hsl(323, 3%, 41%);
+    text-shadow: 1px 1px 2px white;
     border-top-left-radius: 70px;
     border-bottom-right-radius: 70px;
     font-weight: bold;
