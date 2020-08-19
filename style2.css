@@ -8,7 +8,7 @@ body, html{
     height: 100%;
 }
 h1{
-    font-size: 50px;
+    font-size: 3.125rem;
     text-transform: uppercase;
     color: hsl(323, 3%, 41%);
     text-transform: uppercase;
@@ -29,23 +29,23 @@ h1{
     left: 50%;
     transform: translate(-50%, -50%);
     width: 45%;
-    padding: 40px 0;
+    padding: 2.5rem 0;
     text-align: center;
     color: hsl(323, 3%, 41%);
     text-shadow: 1px 1px 2px white;
-    border-top-left-radius: 70px;
-    border-bottom-right-radius: 70px;
+    border-top-left-radius: 4.375rem;
+    border-bottom-right-radius: 4.375rem;
     font-weight: bold;
-    border: 10px inset #fff;
+    border: 0.625rem inset #fff;
 }
 .banner-text p{
     padding: 0 8%;
 }
 li{
     display: inline-block;
-    padding: 10px 50px;
+    padding: 0.625rem 3.125rem;
     border: 2px solid #fff; 
-    font-size: 18px;
+    font-size: 1.125rem;
     text-decoration: none;
     color: #fff;
     margin-top: 15px;
