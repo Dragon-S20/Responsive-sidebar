@@ -1,3 +1,3 @@
 # Responsive-sidebar
 Responsive sidebar with HTML and CSS
-sushi-menu.netlify.app
+go to the website: sushi-menu.netlify.app
