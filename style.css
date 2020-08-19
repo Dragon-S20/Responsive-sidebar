@@ -25,6 +25,7 @@ html{
     height: 100%;   
     background:hsl(38, 61%, 78%);
     transition: all .5s ease;
+    margin-top: -20px;
 }
 
 .sidebar header{
